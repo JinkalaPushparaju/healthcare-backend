@@ -43,7 +43,7 @@ healthcare-backend/
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JinkalaPushparaju/healthcare-backend
 cd healthcare-backend
 
 python -m venv venv
